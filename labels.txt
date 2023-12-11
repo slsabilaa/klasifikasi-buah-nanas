@@ -1,0 +1,3 @@
+0 NanasBusuk
+1 NanasMatang
+2 NanasMuda
